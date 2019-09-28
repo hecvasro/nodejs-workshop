@@ -3,7 +3,7 @@ const Store = require('./app/store');
 const {counter,store} = Store;
 
 /**
- * NodeJS Keynote API for Creating Plans.
+ * API for Creating Plans
  * - [X] Create Plan
  * - [X] Get Plan
  * - [X] Add Task to Plan
